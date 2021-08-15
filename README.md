@@ -1,4 +1,4 @@
-# Bangla 
+# Bangla Script
 
 ## These commands are needed in order to run this script.
 
